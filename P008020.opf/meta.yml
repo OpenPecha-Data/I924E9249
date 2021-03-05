@@ -1,16 +1,17 @@
-id: opecha:P008020
+id: P008020
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB20790
   title: བཀའ་བརྒྱུད་ཆོས་འབྱུང་རིན་པོ་ཆེ་སྤུངས་པའི་འོད་སྟོང་འཁྱིལ་བ
-  volume:
+  author: ''
+  volumes:
     c871cac34bfd47eeadd53ee7a9d40bd4:
       image_group_id: I1PD34874
       title: Volume 1 of bka' brgyud chos 'byung rin po che spungs pa'i 'od stong
         'khyil ba
       volume_number: 1
       total_pages: 176
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བཀའ་བརྒྱུད་ཆོས་འབྱུང་རིན་པོ་ཆེ་སྤུངས་པའི་འོད་སྟོང་འཁྱིལ་བ
   author: ''
